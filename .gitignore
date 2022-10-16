@@ -1,0 +1,9 @@
+glad\ stuff/
+glfw-3.3.8/
+glm-stable/
+Slides/
+Tutorial\ 1/
+Assignment\ 0/
+*.zip
+*.o
+.vscode/
